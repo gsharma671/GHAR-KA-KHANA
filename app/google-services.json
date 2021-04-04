@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "833535898694",
+    "firebase_url": "https://recipe-82dce-default-rtdb.firebaseio.com",
+    "project_id": "recipe-82dce",
+    "storage_bucket": "recipe-82dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833535898694:android:345fbc24140d2cc8a54647",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833535898694-kmks16c3r0f21unvu2u8fs5ifj1895qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWN0ivNx5AJLsxrtDA-wulnILHP_KoQu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833535898694-kmks16c3r0f21unvu2u8fs5ifj1895qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833535898694:android:af8551509b0d07b7a54647",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833535898694-kmks16c3r0f21unvu2u8fs5ifj1895qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWN0ivNx5AJLsxrtDA-wulnILHP_KoQu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833535898694-kmks16c3r0f21unvu2u8fs5ifj1895qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
